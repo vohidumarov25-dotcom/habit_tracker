@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+psycopg2-binary
+drf-yasg
+gunicorn
+pillow
+python-dotenv
